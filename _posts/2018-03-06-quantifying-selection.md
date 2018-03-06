@@ -12,7 +12,7 @@ This post will detail the software used in our recent publication "Quantificatio
 As part of our study we first wanted to see what parameters of the evolutionary process in cancer we may feasibly be able to see in typical cancer sequencing datasets. Rather than go for the fully Bayesian approach we adopt later (which is very computationally expensive) we developed some new test statistics based on a model of neutral evolution we published previously (Williams et al. Nat Gen. 2016).
 
 <figure>
-    <img src="{{ site.url }}/images/ng2018/1overf.png" alt="neutralitytestr plot" width="340px">
+    <img src="{{ site.url }}/images/ng2018/1overftest.png" alt="neutralitytestr plot" width="340px">
 </figure>
 
 
