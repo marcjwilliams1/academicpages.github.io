@@ -6,4 +6,4 @@ author_profile: true
 ---
 {% include base_path %}
 
-## Some software
+I have bits of software related to my work available on my github.
