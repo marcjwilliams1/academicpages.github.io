@@ -12,5 +12,4 @@ author_profile: true
 ## Peer reviewed articles
 * Williams, M. J., Werner, B., Barnes, C. P., Graham, T. A., & Sottoriva, A. (2016). Identification of neutral tumor evolution across cancer types. Nature Genetics, 48(3), 238–244. [http://doi.org/10.1038/ng.3489](http://doi.org/10.1038/ng.3489) [PDF](https://marcjwilliams1.github.io/files/ng2016.pdf)
 
-There's a blog post about our work on the CRUK [website](http://scienceblog.cancerresearchuk.org/2016/01/18/decoding-cancers-secret-diary/).
-We also wrote a short [commentary](http://www.tandfonline.com/doi/abs/10.1080/23723556.2016.1162897) on our work for Molecular and Cellular oncology.
+This paper generated quite a lot of debate. There are various letters and replies (both published and preprints) in a number of journals and preprint servers. Andrea Sottoriva has been keeping an updated list of all these and you can find them [here](http://www.sottorivalab.org/-discussions-and-pre-prints.html).
