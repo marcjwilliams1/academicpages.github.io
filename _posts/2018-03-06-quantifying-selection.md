@@ -26,7 +26,7 @@ We used the Julia programming language to implement this approach and the approa
 
 The package can output the model fits like the following plot which we used throughout the paper and posterior distributions for the parameters of interest.
 <figure>
-    <img src="{{ site.url }}/images/ng2018/1clone.png" alt="neutralitytestr plot" width="120px">
+    <img src="{{ site.url }}/images/ng2018/1clone.png" alt="neutralitytestr plot" width="50px">
 </figure>
 
 Detailed examples of how an analysis can be performed can be found [here](https://github.com/marcjwilliams1/SubClonalSelection.jl/tree/master/example).
