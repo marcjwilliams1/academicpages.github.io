@@ -31,7 +31,9 @@ The package can output the model fits like the following plot which we used thro
 
 Detailed examples of how an analysis can be performed can be found [here](https://github.com/marcjwilliams1/SubClonalSelection.jl/tree/master/example).
 
+
 The above package uses ABC inference and a cancer evolution simulation which exist as standalone packages.
+
 ### Bayesian inference
 [ApproxBayes.jl](https://github.com/marcjwilliams1/ApproxBayes.jl) implements a simple rejection ABC approach and an ABC sequential monte carlo (ABC SMC) algorithm which is more efficient. Also included are model selection versions of both. In theory if you have your own simulation algorithm you could use it together with this package to do Bayesian inference with your model. It is fairly straightforward to use Julia with other languages (particularly C, C++ and python) so if you wanted to try out your own simulation it shouldn't be *too* difficult.
 
@@ -40,3 +42,6 @@ The above package uses ABC inference and a cancer evolution simulation which exi
 
 ## Bioinformatics
 Where we were required to call mutations ourselves we used the Mutect2 algorithm for point mutations and sequenza for copy number calls. Scripts for this analysis are given here.
+
+### References
+Williams, M. J., Werner, B., Barnes, C. P., Graham, T. A., & Sottoriva, A. (2016). Identification of neutral tumor evolution across cancer types. Nature Genetics, 48(3), 238–244. http://doi.org/10.1038/ng.3489
