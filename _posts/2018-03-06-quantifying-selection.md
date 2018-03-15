@@ -41,7 +41,7 @@ The above package uses ABC inference and a cancer evolution simulation which exi
 [CancerSeqSim.jl](https://github.com/marcjwilliams1/CancerSeqSim.jl) implements the computation model of cancer evolution. It uses a branching process model of cell divisions with mutations accruing at each division and then at the end implements an empricially motivated sampling procedure to produce synthetic "sequencing" data.
 
 ## Bioinformatics
-Where we were required to call mutations ourselves we used the Mutect2 algorithm for point mutations and sequenza for copy number calls. Scripts for this analysis are given here.
+Where we were required to call mutations ourselves we used the Mutect2 algorithm for point mutations and sequenza for copy number calls. Scripts for this analysis are given [here](https://github.com/marcjwilliams1/ng2018_bioinformatics).
 
 ### References
 Williams, M. J., Werner, B., Barnes, C. P., Graham, T. A., & Sottoriva, A. (2016). Identification of neutral tumor evolution across cancer types. Nature Genetics, 48(3), 238–244. http://doi.org/10.1038/ng.3489
