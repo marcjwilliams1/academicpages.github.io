@@ -6,7 +6,7 @@ tags:
   - software
   - publications
 ---
-This post will detail software used in our recent publication [Quantification of subclonal selection in human cancers](https://t.co/3OQJulGLf7). For this publication we used a combination of mathematical and computational modelling, Bayesian inference and bioinformatics. We have tried to make the software/scripts for each of these components freely available (via github) and (hopefully) easy to use so that the results are as reproducible as possible and so that similar analyses can be performed with different datasets.
+This post will detail software used in our recent publication [Quantification of subclonal selection in cancer from bulk sequencing data](https://t.co/3OQJulGLf7). For this publication we used a combination of mathematical and computational modelling, Bayesian inference and bioinformatics. We have tried to make the software/scripts for each of these components freely available (via github) and (hopefully) easy to use so that the results are as reproducible as possible and so that similar analyses can be performed with different datasets.
 
 ## Frequentist based rejection of neutral evolution
 As part of our study we first wanted to see what parameters of the evolutionary process in cancer we may feasibly be able to see in typical cancer sequencing datasets. Rather than go for the fully Bayesian approach we adopt later (which is very computationally expensive) we developed some new test statistics based on a model of neutral evolution we published previously (Williams et al. Nat Gen. 2016). These test statistics as well as some plotting functionality have been made available in an R package called [neutralitytestr](https://github.com/marcjwilliams1/neutralitytestr). A vignette describing how to use the package is available [here](https://cran.r-project.org/web/packages/neutralitytestr/vignettes/neutraltytestr.html).
@@ -44,6 +44,6 @@ The above package uses ABC inference and a cancer evolution simulation which exi
 Where we were required to call mutations ourselves we used the Mutect2 algorithm for point mutations and sequenza for copy number calls. Scripts for this analysis are given [here](https://github.com/marcjwilliams1/ng2018_bioinformatics).
 
 ### References
-Williams, M. J., Werner, B., Barnes, C. P., Graham, T. A., & Sottoriva, A. (2016). Identification of neutral tumor evolution across cancer types. Nature Genetics, 48(3), 238–244. [http://doi.org/10.1038/ng.3489]
+Williams, M. J., Werner, B., Barnes, C. P., Graham, T. A., & Sottoriva, A. (2016). Identification of neutral tumor evolution across cancer types. Nature Genetics, 48(3), 238–244. [http://doi.org/10.1038/ng.3489](http://doi.org/10.1038/ng.3489)
 
-Williams, M. J., Werner, B., Heide, T. Curtis, C., Barnes, C. P., Graham, T. A., & Sottoriva, A. (2018). Quantification of subclonal selection in cancer from bulk sequencing data Nature Genetics [http://dx.doi.org/10.1038/s41588-018-0128-6]
+Williams, M. J., Werner, B., Heide, T. Curtis, C., Barnes, C. P., Graham, T. A., & Sottoriva, A. (2018). Quantification of subclonal selection in cancer from bulk sequencing data Nature Genetics [http://dx.doi.org/10.1038/s41588-018-0128-6](http://dx.doi.org/10.1038/s41588-018-0128-6)
