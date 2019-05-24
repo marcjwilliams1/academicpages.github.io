@@ -26,7 +26,7 @@ This paper generated quite a lot of debate. There are various letters and replie
 
 
 ## Other articles I contributed to
-* Crypt fusion as a homeostatic mechanism in the human colon. Ann-Marie Baker, Calum Gabbutt, *Marc J Williams*, Biancastella Cereser, Noor Jawad, Manuel Rodriguez-Justo, Marnix Jansen, Chris P Barnes, Benjamin D Simons, Stuart Ac McDonald, Trevor A Graham, and Nicholas A Wright. Gut 2019 [link](https://gut.bmj.com/content/early/2019/03/19/gutjnl-2018-317540.info)
+* Crypt fusion as a homeostatic mechanism in the human colon. Ann-Marie Baker, Calum Gabbutt, **Marc J Williams**, Biancastella Cereser, Noor Jawad, Manuel Rodriguez-Justo, Marnix Jansen, Chris P Barnes, Benjamin D Simons, Stuart Ac McDonald, Trevor A Graham, and Nicholas A Wright. Gut 2019 [link](https://gut.bmj.com/content/early/2019/03/19/gutjnl-2018-317540.info)
 
 * Temko D, van Gool IC, Rayner E, Glaire M, Makino S, Brown M, Chegwidden L, Palles C, Depreeuw J, Beggs A, Stathopoulou C, Mason J, Baker A-M, **Williams, M**, Cerundolo V, Rei M, Taylor JC, Schuh A, Ahmed A, Amant F, Lambrechts D, Smit VT, Bosse T, Graham TA, Church DN, Tomlinson I. Somatic POLE exonuclease domain mutations are early events in sporadic endometrial and colorectal carcinogenesis, determining driver mutational landscape, clonal neoantigen burden and immune response. The Journal of Pathology. 2018 Jul;245(3):283–96. [link](https://www.google.co.uk/search?hl=en&q=Somatic+POLE+exonuclease+domain+mutations+are+early+events+in+sporadic+endometrial+and+colorectal+carcinogenesis%2C+determining+driver+mutational+landscape%2C+clonal+neoantigen+burden+and+immune+response.&meta=&rlz=1I7SNYS_en)
 
