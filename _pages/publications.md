@@ -7,13 +7,12 @@ author_profile: true
 {% include base_path %}
 
 ## Preprints
-* **Williams MJ**, Zapata L, Werner B, Barnes C, Sottoriva A, Graham TA. Measuring the distribution of fitness effects in somatic evolution by combining clonal dynamics with dN/dS ratios. BioRxiv. 2019 Jan 1:661264. [link](https://www.biorxiv.org/content/10.1101/661264v1.abstract)
-
-* Measuring single cell divisions in human cancers from multi-region sequencing data. Werner B.§, Case J., **Williams M.J.**, Chkhaidze K., Temko D., Fernandez-Mateos J., Cresswell G.D., Nichol D., Cross W., Spiteri I., Huang W., Tomlinson I., Barnes C.P., Graham T.A.§, Sottoriva A.§. Biorxiv, 2019 [link](https://www.biorxiv.org/content/10.1101/560243v1)
 * Evolutionary dynamics of neoantigens in growing tumours. Eszter Lakatos, **Marc J. Williams**, Ryan O. Schenck, William C. H. Cross,  Jacob Househam, Benjamin Werner, Chandler Gatenbee, Mark Robertson-Tessi, Chris P. Barnes,  Alexander R. A. Anderson, Andrea Sottoriva, Trevor A. Graham. Biorxiv, 2019 [link](https://www.biorxiv.org/content/10.1101/536433v1)
 * Model-based tumor subclonal reconstruction. Giulio Caravagna, Timon Heide, **Marc J. Williams**, Luis Zapata, Daniel Nichol, Ketevan Chkhaidze, William Cross, George D. Cresswell, Benjamin Werner, Ahmet Acar, Chris P. Barnes, Guido Sanguinetti, Trevor A. Graham, Andrea Sottoriva BioRxiv [link](https://www.biorxiv.org/content/10.1101/586560v1.abstract)
 
 ## Peer reviewed articles
+* **Williams MJ**, Zapata L, Werner B, Barnes C, Sottoriva A, Graham TA. Measuring the distribution of fitness effects in somatic evolution by combining clonal dynamics with dN/dS ratios. eLife 2020 [link](https://elifesciences.org/articles/48714)
+
 * **Williams, M. J.**, Werner, B., Heide, T., Curtis, C., Barnes, C. P., Sottoriva, A., & Graham, T. A. (2018). Quantification of subclonal selection in cancer from bulk sequencing data. Nature Genetics, 1–14. [http://doi.org/10.1038/s41588-018-0128-6](http://doi.org/10.1038/s41588-018-0128-6) [PDF](https://marcjwilliams1.github.io/files/ng2018.pdf) [preprint](http://doi.org/10.1101/096305))
 
 Details of some of the software I developed to implement the ideas in this paper are available [here](https://marcjwilliams1.github.io/quantifying-selection).
@@ -27,6 +26,8 @@ This paper generated quite a lot of debate. There are various letters and replie
 
 
 ## Other articles I contributed to
+* Measuring single cell divisions in human cancers from multi-region sequencing data. Werner B.§, Case J., **Williams M.J.**, Chkhaidze K., Temko D., Fernandez-Mateos J., Cresswell G.D., Nichol D., Cross W., Spiteri I., Huang W., Tomlinson I., Barnes C.P., Graham T.A.§, Sottoriva A.§. Nature Communications, 2020 [link](https://www.nature.com/articles/s41467-020-14844-6)
+
 * Spatially constrained tumour growth affects the patterns of clonal selection and neutral drift in cancer genomic data. Chkhaidze K., Heide T., Werner B., **Williams M.J.**, Huang W., Caravagna G., Graham T.A.§, Sottoriva A.§. Biorxiv, 2019 [link](https://www.biorxiv.org/content/10.1101/544536v2)
 
 * Crypt fusion as a homeostatic mechanism in the human colon. Ann-Marie Baker, Calum Gabbutt, **Marc J Williams**, Biancastella Cereser, Noor Jawad, Manuel Rodriguez-Justo, Marnix Jansen, Chris P Barnes, Benjamin D Simons, Stuart Ac McDonald, Trevor A Graham, and Nicholas A Wright. Gut 2019 [link](https://journals.plos.org/ploscompbiol/article?id=10.1371/journal.pcbi.1007243)
